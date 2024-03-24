@@ -1,3 +1,7 @@
+
+🙃🙃🙃🙃 Disclamer : I don't suggest you to use this smart contract, It was only for me to learn more about Solidity ` Who the f* wrote this smart contract 😆😆😆😆 `
+
+
 # Pay your employees' salary using a smart contract:
 
     1 : 💻 for educational purposes only.
